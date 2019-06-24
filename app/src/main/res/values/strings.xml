@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AI Farm</string>
+    <string name="date">Date</string>
+    <string name="product">Product</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
